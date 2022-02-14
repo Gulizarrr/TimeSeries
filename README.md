@@ -1,2 +1,2 @@
 # TimeSeries
-### Tamamlama fırsatım olmadı, öğrenerek yapıyorum. Devamını getireceğim, teşekkürler. 
+### Tamamlama fırsatım olmadı, öğrenerek yapıyorum.Tamamlayacağım, teşekkürler. 
